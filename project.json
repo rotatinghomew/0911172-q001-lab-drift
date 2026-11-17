@@ -1,0 +1,6 @@
+{
+  "name": "lab_drift",
+  "title": "Laboratory signal review",
+  "group_key": "batch",
+  "value_key": "result"
+}

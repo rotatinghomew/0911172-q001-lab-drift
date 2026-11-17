@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "id": "m1",
+      "site": "north",
+      "batch": "b1",
+      "result": 1,
+      "control": true
+    },
+    {
+      "id": "m2",
+      "site": "north",
+      "batch": "b1",
+      "result": 0,
+      "control": false
+    },
+    {
+      "id": "m3",
+      "site": "south",
+      "batch": "b2",
+      "result": 1,
+      "control": true
+    },
+    {
+      "id": "m4",
+      "site": "south",
+      "batch": "b2",
+      "result": 0,
+      "control": false
+    }
+  ]
+}
